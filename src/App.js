@@ -1,22 +1,19 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <h3>Hello there #FutureShaper...</h3>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          This is a simple React app that will be used to asses your skills.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <p>
+          Please follow the instructions in the README.md file to get started.
+        </p>
+        <p>
+          Edit <code>src/App.js</code> and show me what you got!
+        </p>
       </header>
     </div>
   );
