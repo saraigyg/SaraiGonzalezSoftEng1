@@ -24,10 +24,10 @@ Generate a sign-up form with the following items
 -	Feel at home and use the libraries and extensions that you need. Just be sure to document and declare the dependencies needed to be used in other machines to be evaluated. 
 
 ## How to submit your answer
-- Create a branch with the next format
+- Create a fork with the next format
   -	NameLastnameRole, Ie: JhonSmithSeAdv 
 -	Commit as much as you want, remember to show good practices. 
--	Once you got the final commit, push it with title “Final Commit” 
+-	Once you got the final commit, push it with title “Final Commit” and request a PR
 
 
 
