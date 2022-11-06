@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: black;
+  background-color: white;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -11,7 +11,7 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   font-family: Consolas,monaco,monospace; 
-  color: #008F11;
+  color: #e70e02;
 }
 .App-body {
     margin: 0;
